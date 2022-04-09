@@ -1,0 +1,9 @@
+$roboto :'Roboto', sans-serif;
+$merryWeather : 'Merriweather', serif;
+$anek : 'Anek Odia', sans-serif;
+
+// Mixin
+@mixin marginOverflow() {
+    padding: 20vmin 0;
+    overflow: hidden;
+};
